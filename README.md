@@ -17,5 +17,5 @@ Neste desafio você deve criar uma página com uma lista de links (menu) que pod
 
 Guilherme Henrique Lima Batista
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/guihenriquelb/)
+[https://www.linkedin.com/in/guihenriquelb/]
 
