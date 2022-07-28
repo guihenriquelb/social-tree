@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background-color: #FAF7FD;
+}
+
+.container {
+    /* Deixar conteúdo no centro utilizando flexbox e deixando em coluna*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+
+.instagram {
+    color: #BB99DD;
+    font-weight: bold;
+}
+
+
+.linkstyle {
+    display: block;
+    text-align: center;
+    list-style: none;
+    border: solid #BB99DD;
+    border-width: 2px;
+    border-radius: 4px;
+    margin: 15px;
+    width: 300px;
+    height: 40px;
+    align-items: center;
+    text-transform: uppercase ;
+    color: #BB99DD;    
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover .linkstyle{
+    background-color: #eedcff;
+}
+
+
+.photo img {
+    border-radius: 50%;
+    border-width: 2px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: solid #BB99DD;
+    padding: 5px;
+}
+
+.logolink {
+    margin: 30px 10px;
+}
+
