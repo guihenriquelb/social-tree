@@ -1,5 +1,7 @@
 # Desafio Social Tree - Discover Rocketseat
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/guihenriquelb/social-tree-discover-rocketseat/blob/master/LICENSE) 
+
 🚀 Neste desafio você deve criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
 
 ## Layout 
